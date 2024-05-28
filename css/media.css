@@ -1,1 +1,14 @@
-@media(max-width: )
+@media(max-width: 800px)
+{
+    .content-champoins-of-customer-service {
+        flex-wrap: wrap;
+    }
+    .content-champoins-of-customer-service {
+        min-width: 300px;
+    }
+}
+@media (max-width: 380px){
+    .buttons-discription-hampoins-of-customer-service {
+        flex-direction: column;
+    } 
+}

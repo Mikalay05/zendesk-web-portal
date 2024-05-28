@@ -31,3 +31,67 @@ nav ul li a {
     line-height: 24px;
     cursor: pointer;
 }
+.champoins-of-customer-service-section {
+    background: #17494D;
+    display: flex;
+    padding: 30px 20px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.champoins-of-customer-service-section h1{
+    color: white;
+    font-family: Roboto;
+    font-size: 77px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 97px;
+
+}
+.text-champions {
+    color: #CE9FB7;
+} 
+.text-customer {
+    color: #00A656;
+    text-decoration: underline; 
+}
+.text-service {
+    color: #30AABC;
+    text-decoration: underline; 
+}
+.text-discription-hampoins-of-customer-service {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+.button-free-trial {
+    width: 130px;
+    height: 52px;
+    border: 2px solid #FF6224;
+    background: #FF6224;
+    color: #FFF;
+
+    text-align: center; 
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.button-view-demo {
+    width: 147px;
+    height: 52px;
+    border: 2px solid #FF6224;
+    background-color: transparent; /* Прозрачный фон */
+
+    color: #FF6224;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+}
