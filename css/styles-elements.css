@@ -1,0 +1,33 @@
+h1,h2,h3,h4,p, a{
+    margin-block: 0;
+}
+#logo-zendesk {
+    width: 75px;
+    height: 65px;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul li a {
+    color: #03363D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+}
+#get-sterted {
+    background-color: rgba(23, 73, 77, 1);
+    width: 150px;
+    height: 46px;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    cursor: pointer;
+}
