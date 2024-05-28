@@ -95,3 +95,41 @@ nav ul li a {
     font-weight: 400;
     line-height: 25px;
 }
+#section-go-all-in-on-messaging {
+    background: #FED6A8;
+}
+.text-h2-go-all-in-on-messaging {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 31px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px
+}
+.text-p-go-all-in-on-messaging {
+    color: #17494D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.link-watch-video {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    text-decoration: underline;
+}
+.link-get-the-details {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    text-decoration: underline;
+
+}

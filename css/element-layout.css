@@ -61,3 +61,25 @@ nav div ul {
     align-content: center;
     gap: 80px;
 }
+#section-go-all-in-on-messaging {
+    display: flex;
+    padding: 30px 130px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 60px;
+}
+.content-go-all-in-on-messaging {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 32px;
+}
+.links-go-all-in-on-messaging {
+    display: flex;
+    padding: 10px 36px;
+    align-items: center;
+    gap: 21px;
+    align-self: stretch;
+}
