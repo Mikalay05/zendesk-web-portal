@@ -320,3 +320,30 @@ nav ul li a {
     align-items: center;
     gap: 10px;
 }
+.right-content-the-best-customer h2{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px; 
+    width: 100%;
+
+}
+.right-content-the-best-customer p{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    width: 100%;
+}
+.right-content-the-best-customer a{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+}
