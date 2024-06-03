@@ -194,3 +194,40 @@ nav div {
     align-content: flex-start;
     gap: 0px 36px;
 }
+.news-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    padding: 104px 8px;
+    gap: 33px 16px;
+    align-self: stretch;
+    flex-wrap: wrap;
+}
+.news-content {
+
+    width: 100%;
+    padding-left: 32px;
+    padding-top: 32px;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.news-content h4 {
+    margin-bottom: 10px;
+}
+
+.news-content h3 {
+    margin-bottom: 10px;
+}
+
+.news-content p {
+    margin-bottom: auto;
+}
+
+.news-content a {
+    margin-top: 20px;
+    display: inline-block;
+}
