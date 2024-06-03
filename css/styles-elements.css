@@ -209,3 +209,36 @@ nav ul li a {
     height: 217px;
     background: #C2C8CC;
 }
+.customize-section {
+    background-image: url(../imgs/Customize-your-customer-experience.png);
+    min-height: 528px;
+}
+.content {
+    background-color: white;
+}
+.customize-section h2 {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56px;
+}
+.customize-section p {
+    color: #17494D;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.links a {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    text-decoration: underline;
+}
