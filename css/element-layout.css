@@ -42,14 +42,24 @@ nav div {
     gap: 57px;
     margin: 0;
 }
+.champoins-of-customer-service-section {
+    display: flex;
+    padding: 0px 154px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
 .discription-champoins-of-customer-service-section {
     display: flex;
-    min-width: 300px;
+    min-width: 340px;
+    max-width: 790px;
     padding: 16px;
     flex-direction: column;
     justify-content: center;
     align-items: flex-start;
     gap: 36px;
+
 }
 .buttons-discription-hampoins-of-customer-service {
     display: flex;
@@ -60,13 +70,12 @@ nav div {
 }
 .content-champoins-of-customer-service {
     display: flex;
-    min-width: 470px;
-    max-width: 940px;
-    padding: 90px 0px;
+    padding: 91px 0px;
     justify-content: center;
     align-items: center;
     align-content: center;
-    gap: 80px;
+    gap: 24px;
+    align-self: stretch;
 }
 #section-go-all-in-on-messaging {
     display: flex;
