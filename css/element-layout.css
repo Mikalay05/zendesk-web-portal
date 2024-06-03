@@ -79,16 +79,26 @@ nav div {
 }
 #section-go-all-in-on-messaging {
     display: flex;
-    padding: 30px 130px;
+    padding: 0px 154px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.contnet-section-go-all-in-on-messaging {
+    display: flex;
     justify-content: center;
     align-items: center;
     align-content: center;
     gap: 60px;
+    align-self: stretch;
 }
 .content-go-all-in-on-messaging {
     display: flex;
+    min-width: 300px;
+    max-width: 494px;
+    padding: 2px 8px;
     flex-direction: column;
-    justify-content: center;
     align-items: flex-start;
     gap: 32px;
 }
