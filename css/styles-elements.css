@@ -320,6 +320,9 @@ nav ul li a {
     align-items: center;
     gap: 10px;
 }
+.section-the-best-customer {
+    background: #F8F9F9;
+}
 .right-content-the-best-customer h2{
     color: #03363D;
     font-family: Roboto;
@@ -346,4 +349,10 @@ nav ul li a {
     font-style: normal;
     font-weight: 400;
     line-height: 27px;
+}
+.line-after-the-best-customer {
+    max-width: 1083px;
+    height: 2px;
+    background: #C2C8CC;
+    margin: 0 auto;
 }
