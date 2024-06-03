@@ -15,9 +15,21 @@ nav ul li a {
     font-size: 15px;
     font-style: normal;
     font-weight: 400;
-    line-height: 24px;
+    line-height: 18px;
     text-decoration: none;
 }
+.content-links-1 {
+    width: 67px;}
+.content-links-2 {
+    width: 50px;}
+.content-links-3 {
+    width: 65px;}
+.content-links-4 {
+    width: 43px;}
+.content-links-5 {
+    width: 62px;}
+.content-links-6 {
+    width: 76px;    }
 #get-sterted {
     background-color: rgba(23, 73, 77, 1);
     width: 150px;
@@ -132,4 +144,69 @@ nav ul li a {
     line-height: 27px;
     text-decoration: underline;
 
+}
+.title-text-where-good-conversations h2{
+    color: #03363D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px; 
+}
+
+.title-text-where-good-conversations p{
+    color: #03363D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.divisions-pasive{
+    color: #68737D;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.divisions-active {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.right-where-good-conversations h3{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+}
+.right-where-good-conversations p{
+    color: #17494D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+}
+.right-where-good-conversations a{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
 }
