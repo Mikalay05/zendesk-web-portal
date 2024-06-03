@@ -299,3 +299,24 @@ nav ul li a {
 .line-yellow {
     background: #C38F00;
 }
+.content-gartner h3 {
+    color: #03363D;
+
+    text-align: center;
+    font-family: Roboto;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+}
+.content-gartner {
+    background: #D6EEF2;
+}
+.section-gartner {
+    display: flex;
+    padding: 64px 170px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}

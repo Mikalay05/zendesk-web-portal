@@ -231,3 +231,12 @@ nav div {
     margin-top: 20px;
     display: inline-block;
 }
+.content-gartner {
+    display: flex;
+    padding: 48px 0px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 24px;
+    width: 100%;
+}
