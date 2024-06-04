@@ -356,3 +356,28 @@ nav ul li a {
     background: #C2C8CC;
     margin: 0 auto;
 }
+.section-theres-more-where-that-came-from {
+    background: #F8F9F9;
+}
+.content-theres-more-where-that-came-from h2{
+    color: #03363D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+}
+.content-box-theres-more-where-that-came-from p{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+}
+.line-theres-more-where-that-came-from {
+    width: 300px;
+    height: 2px;
+    background: #17494D;
+}

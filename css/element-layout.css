@@ -273,3 +273,41 @@ nav div {
     gap: 48px;
     flex-wrap: wrap;
 }
+.section-theres-more-where-that-came-from {
+    display: flex;
+    padding: 25px 100px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.content-theres-more-where-that-came-from {
+    display: flex;
+    padding: 24px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 95px;
+}
+.content-theres-more-where-that-came-from h2{
+    min-width: 233px;
+    max-width: 380px;
+}
+.text-content-theres-more-where-that-came-from {
+    display: flex;
+    min-width: 300px;
+    padding: 4px 1px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 0px 50px;
+    flex-wrap: wrap;
+    flex: 1 0 0;
+}
+.content-box-theres-more-where-that-came-from {
+    display: flex;
+    width: 300px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
