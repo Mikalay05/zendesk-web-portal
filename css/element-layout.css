@@ -444,3 +444,11 @@ footer {
     align-self: stretch;
     flex-wrap: wrap;
 }
+.section-end-text {
+    display: flex;
+    padding: 31px 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1px;
+}
