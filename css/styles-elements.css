@@ -401,12 +401,15 @@ nav ul li a {
     height: 2px;
     background: #17494D;
 }
+.section-champions-of-awesome-free-trials {
+    background: #D6EEF2;
+}
 .section-champions-of-awesome-free-trials h3{
     color: #03363D;
 
     text-align: center;
     font-family: Roboto;
-    font-size: 53   px;
+    font-size: 53px;
     font-style: normal;
     font-weight: 400;
     line-height: 56px;
@@ -463,5 +466,59 @@ nav ul li a {
     font-style: normal;
     font-weight: 400;
     line-height: 19.5px;
+    text-decoration: none;
+}
+.footer-line {
+    height: 1px;
+    background: #C2C8CC;
+    width: 100%;
+}
+.text-subscrive h3 {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+.text-subscrive h4 {
+    color: #17494D;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.buttons-subscrive input{
+    color: rgba(104, 115, 125, 0.53);
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 300px;
+height: 52px;
+}
+.button-subscrive {
+        color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+
+    border: 2px solid #17494D;
+background: #17494D;
+width: 135px;
+height: 52px;
+}
+.ather-links-footer a {
+    color: #68737D;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
     text-decoration: none;
 }

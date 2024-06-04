@@ -406,3 +406,41 @@ footer {
     gap: 3px;
 
 }
+.subscrive-content {
+    display: flex;
+    padding: 8px 0px;
+    align-items: center;
+    align-content: center;
+    gap: 16px;
+    align-self: stretch;
+    flex-wrap: wrap;
+}
+.text-subscrive {
+    display: flex;
+    min-width: 150px;
+    max-width: 250px;
+    padding: 0px 1px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 6px;
+    flex: 1 0 0;
+}
+.buttons-subscribe {
+    display: flex;
+    min-width: 320px;
+    max-width: 435px;
+    align-items: center;
+    align-content: center;
+    gap: 10px 0px;
+    flex: 1 0 0;
+    flex-wrap: wrap;
+}
+.ather-links-footer {
+    display: flex;
+    align-items: center;
+    align-content: center;
+    gap: 17px;
+    align-self: stretch;
+    flex-wrap: wrap;
+}
