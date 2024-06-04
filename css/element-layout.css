@@ -311,3 +311,21 @@ nav div {
     justify-content: center;
     align-items: center;
 }
+.section-champions-of-awesome-free-trials {
+    display: flex;
+    padding: 122px 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+}
+.buttons-champions-of-awesome-free-trials {
+    display: flex;
+    max-width: 360px;
+    padding: 8px 7px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 16px;
+
+}

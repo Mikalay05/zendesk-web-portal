@@ -348,7 +348,7 @@ nav ul li a {
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    line-height: 27px;
+    line-height: 21px;
 }
 .line-after-the-best-customer {
     max-width: 1083px;
@@ -380,4 +380,41 @@ nav ul li a {
     width: 300px;
     height: 2px;
     background: #17494D;
+}
+.section-champions-of-awesome-free-trials h3{
+    color: #03363D;
+
+    text-align: center;
+    font-family: Roboto;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56px;
+}
+.button-start-a-free-trial {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+
+    width: 183px;
+    height: 52px;
+    border: 2px solid #17494D;
+    background: #17494D;
+}
+.button-view-demo-champions-of-awesome-free-trials {
+    color: #17494D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+
+    width: 146px;
+    height: 52px;
+    border: 2px solid #17494D;
 }
