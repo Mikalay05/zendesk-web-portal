@@ -1,0 +1,9 @@
+.circle {
+    transition: left 0.3s ease;
+}
+.swipe-tem {
+    transition: background-color 0.3s ease;
+}
+.swipe-tem.active .circle {
+    left: 26.5px;
+}

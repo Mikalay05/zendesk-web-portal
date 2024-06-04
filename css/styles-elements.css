@@ -18,6 +18,26 @@ nav ul li a {
     line-height: 18px;
     text-decoration: none;
 }
+.swipe-tem {
+    width: 50px;
+    height: 25px;
+    border-radius: 25px;
+    background-color:#CCCCCC;
+    flex-shrink: 0; 
+    position: relative;
+    cursor: pointer;
+}
+.circle {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: #FFF;
+    position: absolute;
+    top: 1.5px;
+    left: 1.5px;
+
+
+}
 .content-links-1 {
     width: 67px;}
 .content-links-2 {

@@ -17,14 +17,20 @@ nav {
 }
 .links-english {
     display: flex;
-    max-width: 1110px;
+    max-width: 1078px;
     padding: 0px 16px;
     justify-content: flex-end;
     align-items: center;
     gap: 25px;
     margin: 0;
 }
-nav div {
+.content-ul {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 12px;
+}
+.content-nav-div{
     display: flex;
     max-width: 1110px;
     padding: 0px 7px;
