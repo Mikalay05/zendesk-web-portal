@@ -6,6 +6,9 @@
     .content-champoins-of-customer-service {
         min-width: 300px;
     }
+    .discription-champoins-of-customer-service-section {
+        min-width: 268px;
+    }
 }
 @media (max-width: 380px){
     .buttons-discription-hampoins-of-customer-service {
@@ -21,4 +24,29 @@
     .links-button{
         display: none;
     }
+}
+@media(max-width: 1142px) {
+    .content-champoins-of-customer-service{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 767px) {
+    .champoins-of-customer-service-section {
+        padding: 0px 10px;
+    }
+    
+}
+@media(max-width: 490px)
+{
+    .text-content-CHAMPIONS_OF_CUSTOMER_SERVICE {
+font-size: 55px;
+font-style: normal;
+font-weight: 700;
+line-height: 97.5px;
+min-width: auto;
+    }
+    .content-champoins-of-customer-service {
+        padding: 20px 0px;
+    }
+
 }
