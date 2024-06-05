@@ -12,3 +12,13 @@
         flex-direction: column;
     } 
 }
+
+@media(max-width:1112px) {
+    .burger-menu {
+        display: flex;
+    }
+
+    .links-button{
+        display: none;
+    }
+}
