@@ -50,7 +50,7 @@ min-width: auto;
     }
 
 }
-header, footer, .news-section,.section-gartner,.section-the-best-customer,.content-the-best-customer, .section-theres-more-where-that-came-from, .section-champions-of-awesome-free-trials {
+header, footer,.section-gartner,.section-the-best-customer,.content-the-best-customer, .section-theres-more-where-that-came-from, .section-champions-of-awesome-free-trials {
     display: none;
 }
 
@@ -97,4 +97,23 @@ header, footer, .news-section,.section-gartner,.section-the-best-customer,.conte
     .content-where-good-conversations {
         padding: 0px;
     }
+}
+@media(max-width:533px) {
+    .content {
+        padding: 40px 10px;
+    }
+}
+@media (max-width: 1106px) {
+    .news-section {
+        padding: 6px 8px;
+    }
+}
+@media(max-width:750px){
+    #news-box-2, #news-box-3 {
+        display: none;
+    }
+    #button-news-left, #button-news-right {
+        display: block;
+    }
+
 }

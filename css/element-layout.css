@@ -209,6 +209,11 @@ nav {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+.content-news-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
     align-content: center;
     padding: 104px 8px;
     gap: 33px 16px;
@@ -216,14 +221,12 @@ nav {
     flex-wrap: wrap;
 }
 .news-content {
-
-    width: 100%;
-    padding-left: 32px;
-    padding-top: 32px;
-    box-sizing: border-box;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 21px;
+    flex: 1 0 0;
 }
 
 .news-content h4 {
