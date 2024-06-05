@@ -104,7 +104,7 @@ nav {
 }
 .content-go-all-in-on-messaging {
     display: flex;
-    min-width: 300px;
+    min-width: 284px;
     max-width: 494px;
     padding: 2px 8px;
     flex-direction: column;
@@ -113,10 +113,12 @@ nav {
 }
 .links-go-all-in-on-messaging {
     display: flex;
-    padding: 10px 36px;
-    align-items: center;
-    gap: 21px;
-    align-self: stretch;
+    padding: 10px 28px;
+    align-items: flex-start;
+    align-content: flex-start;
+    gap: 16px;
+    flex-wrap: wrap;
+
 }
 #section-where-good-conversations {
     display: flex;
@@ -144,7 +146,7 @@ nav {
 }
 .divisions-in-where-good-conversations {
     display: flex;
-    padding: 9px 433px;
+    padding: 9px 0px;
     justify-content: center;
     align-items: center;
     gap: 55px;

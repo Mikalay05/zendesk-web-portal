@@ -158,6 +158,9 @@ background: #000;
     line-height: 24px;
 }
 .link-watch-video {
+    width: 126px;
+height: 21px;
+
     color: #03363D;
     font-family: Roboto;
     font-size: 18px;
@@ -167,6 +170,9 @@ background: #000;
     text-decoration: underline;
 }
 .link-get-the-details {
+    width: 126px;
+    height: 21px;
+
     color: #03363D;
     font-family: Roboto;
     font-size: 18px;
@@ -212,7 +218,7 @@ background: #000;
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
-    line-height: 22px;
+    line-height: 25px;
     letter-spacing: 2px;
     text-transform: uppercase;
     text-decoration: underline;
@@ -228,7 +234,7 @@ background: #000;
 .right-where-good-conversations p{
     color: #17494D;
     font-family: Roboto;
-    font-size: 17px;
+    font-size: 18px;
     font-style: normal;
     font-weight: 300;
     line-height: 24px;

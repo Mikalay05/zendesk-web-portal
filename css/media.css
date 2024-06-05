@@ -50,3 +50,51 @@ min-width: auto;
     }
 
 }
+header, footer, .news-section,.section-gartner,.section-the-best-customer,.content-the-best-customer, .section-theres-more-where-that-came-from, .section-champions-of-awesome-free-trials {
+    display: none;
+}
+
+@media (max-width: 1194px) {
+    .contnet-section-go-all-in-on-messaging {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width:767px) {
+    #img-go-all {
+        display: none;
+    }
+}
+@media(max-width:607px) {
+    #section-go-all-in-on-messaging {
+        padding: 0px 10px;
+    }
+    
+}
+@media (max-width: 1297px) {
+    #img-where-good {
+        display: none;
+    }
+}
+@media (max-width: 330px) {
+    .title-text-where-good-conversations h2 {
+        font-size: 32px;
+        line-height: 56px;
+    }
+}
+@media(max-width:983px){
+    .customize-section {
+        display: flex;
+        padding: 10px;
+        justify-content: center;
+
+    }
+    .content {
+        margin-left: 0;
+    }
+}
+@media(max-width:688px) {
+    .content-where-good-conversations {
+        padding: 0px;
+    }
+}
