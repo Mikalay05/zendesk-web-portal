@@ -50,9 +50,9 @@ min-width: auto;
     }
 
 }
-header, footer,.section-gartner,.section-the-best-customer,.content-the-best-customer, .section-theres-more-where-that-came-from, .section-champions-of-awesome-free-trials {
+/* header, footer,.section-gartner,.section-the-best-customer,.content-the-best-customer, .section-theres-more-where-that-came-from, .section-champions-of-awesome-free-trials {
     display: none;
-}
+} */
 
 @media (max-width: 1194px) {
     .contnet-section-go-all-in-on-messaging {

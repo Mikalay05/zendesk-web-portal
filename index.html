@@ -7,6 +7,7 @@
     <link rel="stylesheet" href="css/element-layout.css">
     <link rel="stylesheet" href="css/animation.css">
     <link rel="stylesheet" href="css/media.css">
+    <link rel="stylesheet" href="css/dark-theme/dark-header.css">
     <title>Zendesk</title>
 </head>
 <body>
@@ -14,31 +15,33 @@
         <nav>
             <ul class = "links-english">
                 <div class="content-ul">
-                    <li width><a href="">Sign in</a></li>
-                    <li><a href="">Product Support</a></li>
-                    <li><a href="">Company</a></li>
-                    <li><a href="">Contact us</a></li>
+                    <li><a href="authorization.html" data-header-translate="sign-in">Sign in</a></li>
+                    <li><a href="" data-header-translate="product-support">Product Support</a></li>
+                    <li><a href="" data-header-translate="company">Company</a></li>
+                    <li><a href="" data-header-translate="contact-us">Contact us</a></li>
                 </div>
-                <div class="swipe-tem" onclick="toggleSwitch(this)">
+                <div class="swipe-tem">
                     <div class="circle"></div>
                 </div>
-                <li><a href="">English</a></li>
+                <li><a href="" data-header-translate="language">English</a></li>
             </ul>
             <div class="content-nav-div">
-                <img id="logo-zendesk" src = "imgs/logo-zendesk.png" alt="notFoundLogo">
+                <a href="index.html">
+                    <img id="logo-zendesk" src="imgs/logo-zendesk.png" alt="notFoundLogo">
+                </a>                
                 <div class = "burger-menu">
                         <div id = "burger-line-1" class = "burger-menu-line"></div>
                         <div id = "burger-line-2" class = "burger-menu-line"></div>
                         <div id = "burger-line-3" class = "burger-menu-line"></div>
                 </div>
                 <ul class = "links-button">
-                    <li class = "content-links-1"><a href="">Products</a></li>
-                    <li class = "content-links-2"><a href="">Pricing</a></li>
-                    <li class = "content-links-3"><a href="">Solutions</a></li>
-                    <li class = "content-links-4"><a href="">Demo</a></li>
-                    <li class = "content-links-5"><a href="">Services</a></li>
-                    <li class = "content-links-6"><a href="">Resources</a></li>
-                    <li><button id = "get-sterted">Get started</button></li>
+                    <li class = "content-links-2"><a href="" data-header-translate="pricing">Pricing</a></li>
+                    <li class = "content-links-3"><a href="" data-header-translate="solutions">Solutions</a></li>
+                    <li class = "content-links-4"><a href="" data-header-translate="demo">Demo</a></li>
+                    <li class = "content-links-1"><a href="" data-header-translate="products">Products</a></li>
+                    <li class = "content-links-5"><a href="" data-header-translate="services">Services</a></li>
+                    <li class = "content-links-6"><a href="" data-header-translate="resources">Resources</a></li>
+                    <li><button id = "get-sterted" data-header-translate="get-started">Get started</button></li>
                 </ul>
             </div>
         </nav>
@@ -349,7 +352,9 @@
     </footer>
 
 
-    <script src="js/tem.js"></script>
+
     <script src="js/slider-news.js"></script>
+    <script src="js/theme/theme-header.js"></script>
+    <script src="js/i18n/headerI18n.js"></script>
 </body>
 </html>
