@@ -40,6 +40,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const lang = localStorage.getItem('language') || 'en';
     translatePage(lang);
     document.querySelector('[data-header-translate="language"]').addEventListener('click', toggleLanguage);
+    document.querySelector('.lng-line.in-burger').addEventListener('click', toggleLanguage);
 })
 function toggleLanguage() {
     const currentLang = localStorage.getItem('language') || 'en';

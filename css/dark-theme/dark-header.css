@@ -13,3 +13,9 @@ nav ul li a.dark-theme {
 body.dark-theme {
     background-color: #21232D;
 }
+#get-sterted.dark-theme {
+    background: #4CAF50;
+}
+main, footer {
+    display: none;
+}

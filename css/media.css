@@ -23,7 +23,7 @@
 
     .links-button{
         display: none;
-    }
+    }   
 }
 @media(max-width: 1142px) {
     .content-champoins-of-customer-service{
@@ -116,4 +116,22 @@ min-width: auto;
         display: block;
     }
 
+}
+
+@media (max-width:580px) {
+    .links-english >.swipe-tem {
+        display: none;
+    }
+    #burger-menu-show-box > .swipe-tem {
+        display: block;
+    } 
+    #burger-menu-show-box > .lng-line {
+        display: block;
+    } 
+    .line-in-burger-menu {
+        display: block;
+    }
+    .lng-line {
+        display: none;
+    }
 }

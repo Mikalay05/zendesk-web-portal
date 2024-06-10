@@ -8,7 +8,10 @@
     <link rel="stylesheet" href="css/animation.css">
     <link rel="stylesheet" href="css/media.css">
     <link rel="stylesheet" href="css/dark-theme/dark-header.css">
+    <link rel="stylesheet" href="css/burger-menu-box.css">
+
     <title>Zendesk</title>
+
 </head>
 <body>
     <header>
@@ -23,7 +26,7 @@
                 <div class="swipe-tem">
                     <div class="circle"></div>
                 </div>
-                <li><a href="" data-header-translate="language">English</a></li>
+                <li class="lng-line"><a href="" data-header-translate="language">English</a></li>
             </ul>
             <div class="content-nav-div">
                 <a href="index.html">
@@ -43,6 +46,24 @@
                     <li class = "content-links-6"><a href="" data-header-translate="resources">Resources</a></li>
                     <li><button id = "get-sterted" data-header-translate="get-started">Get started</button></li>
                 </ul>
+                <div id="burger-menu-show-box">
+                    <ul>
+                        <li class = "content-links-2"><a href="" data-header-translate="pricing">Pricing</a></li>
+                        <li class = "content-links-3"><a href="" data-header-translate="solutions">Solutions</a></li>
+                        <li class = "content-links-4"><a href="" data-header-translate="demo">Demo</a></li>
+                        <li class = "content-links-1"><a href="" data-header-translate="products">Products</a></li>
+                        <li class = "content-links-5"><a href="" data-header-translate="services">Services</a></li>
+                        <li class = "content-links-6"><a href="" data-header-translate="resources">Resources</a></li>
+                        <li><button id = "get-sterted" data-header-translate="get-started">Get started</button></li>
+                    </ul>
+                   
+                    <div class="line-in-burger-menu">
+                    </div>
+                    <div class="swipe-tem in-burger">
+                        <div class="circle"></div>
+                    </div>
+                    <a class="lng-line in-burger" href="" data-header-translate="language">English</a>
+                </div>
             </div>
         </nav>
     </header>
@@ -356,5 +377,6 @@
     <script src="js/slider-news.js"></script>
     <script src="js/theme/theme-header.js"></script>
     <script src="js/i18n/headerI18n.js"></script>
+    <script src="js/burget-menu.js"></script>
 </body>
 </html>

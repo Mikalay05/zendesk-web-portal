@@ -1,5 +1,4 @@
 document.addEventListener('DOMContentLoaded', () => {
-    console.log('страница загружается');
 
     // Устанавливаем тему при загрузке страницы
     const theme = localStorage.getItem('theme') || 'light';
@@ -7,7 +6,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Устанавливаем слушатель для переключателя темы
     const themeSwitcher = document.querySelector('.swipe-tem');
+    const themeSwitcherInBurger = document.querySelector('.swipe-tem.in-burger');
+
+    console.log(themeSwitcherInBurger)
     themeSwitcher.addEventListener('click', () => {
+        toggleTheme();
+    });
+    themeSwitcherInBurger.addEventListener('click', () => {
         toggleTheme();
     });
 });
