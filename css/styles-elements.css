@@ -587,3 +587,61 @@ flex: 1 0 0;
     max-width: 500px; /* Maximum width */
     max-height: 500px; /* Maximum height */
 }
+.line-in-input-box {
+    background: #DAD2E3;
+    height: 1px;
+    width: 100%;
+}
+.input-box-messange{
+    border: none;
+    width: 100%;
+    outline: none;
+}
+.box-input-messange input {
+    color: #A8A0B0;
+
+    font-family: "Red Hat Display";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.h2-text-black{
+    color: #21232D;
+text-align: center;
+font-family: Roboto;
+font-size: 39px;
+font-style: normal;
+font-weight: 500;
+line-height: 52px;
+}
+.button-messange {
+    display: flex;
+    width: 200px;
+    height: 60px;
+    padding: 15px 31px 15px 30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #FF6224;
+
+    color: #FFF;
+    text-align: center;
+    font-family: "Red Hat Display";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    cursor: pointer;
+    border: none
+}
+.text-link {
+    color: #8643DC;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-transform: lowercase;
+}

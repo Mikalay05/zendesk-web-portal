@@ -486,3 +486,36 @@ footer {
     flex: 1 0 0;
     flex-wrap: wrap;
 }
+.box-input-messange {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    max-width: 992px;
+
+    gap: 17px;
+    align-self: stretch;
+}
+#messange-me {
+    display: flex;
+    max-width: 992px;
+    padding: 20px 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+#main-contact-us {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.boxs-inout {
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 30px;
+width: 100%;
+}
