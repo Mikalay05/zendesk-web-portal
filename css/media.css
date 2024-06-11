@@ -135,3 +135,31 @@ min-width: auto;
         display: none;
     }
 }
+/*footer start*/
+
+@media (max-width: 1114px) {
+    .box-content-footer {
+        display: none;
+    }
+    .content-nav-footer {
+        flex-direction: column;
+        align-items: center;
+    }
+    .content-nav-footer h3 {
+        text-align: center;
+        max-width: 190px;
+    } 
+    .box-nav-footer h4 {
+        text-align: center;
+        width: 100%;
+    }
+    .box-content-footer {
+            display: none;
+    }
+    .show-navs-footer {
+        display: flex;
+    }
+}
+
+/*footer end*/
+

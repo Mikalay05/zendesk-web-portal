@@ -16,6 +16,6 @@ body.dark-theme {
 #get-sterted.dark-theme {
     background: #4CAF50;
 }
-main, footer {
-    display: none;
+#burger-menu-show-box.is-visible.dark-theme{
+    background-color: #FF6224;
 }
