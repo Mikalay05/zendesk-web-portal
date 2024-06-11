@@ -576,4 +576,14 @@ height: 52px;
 .color-h1 {
     color: #03363D;
     height: auto;
+    min-width: 300px;
+max-width: 480px;
+flex: 1 0 0;
+}
+#map-container {
+    background-color:#000;
+    width: 100vw; /* 100% of the viewport width */
+    height: 100vw; /* 50% of the viewport width */
+    max-width: 500px; /* Maximum width */
+    max-height: 500px; /* Maximum height */
 }
