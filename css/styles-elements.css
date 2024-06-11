@@ -90,7 +90,7 @@ background: #000;
 .champoins-of-customer-service-section {
     background: #17494D;
 }
-.text-content-CHAMPIONS_OF_CUSTOMER_SERVICE{
+.text-content-CHAMPIONS_OF_CUSTOMER_SERVICE, .h1-text-style{
     color: white;
     font-family: Roboto;
     font-size: 77px;
@@ -572,4 +572,8 @@ height: 52px;
     height: 20px;
     display: none;
     cursor: pointer;
+}
+.color-h1 {
+    color: #03363D;
+    height: auto;
 }

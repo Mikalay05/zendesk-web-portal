@@ -461,3 +461,28 @@ footer {
     align-items: center;
     gap: 1px;
 }
+
+
+/*contact us*/
+#map {
+    display: flex;
+    padding: 20px 10px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 10px;
+    align-self: stretch;
+    flex-wrap: wrap;
+
+    background: #D6EEF2;
+}
+#content-map {
+    display: flex;
+    max-width: 992px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 10px;
+    flex: 1 0 0;
+    flex-wrap: wrap;
+}

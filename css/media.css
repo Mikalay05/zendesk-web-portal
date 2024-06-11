@@ -163,3 +163,23 @@ min-width: auto;
 
 /*footer end*/
 
+
+
+/*contact us*/
+@media (max-width: 1000px) {
+    .h1-text-style.color-h1 {
+        text-align: center;
+        min-width: 300px;
+        max-width: 480px;
+    }
+}
+@media (max-width: 520px) {
+    .h1-text-style.color-h1 {
+        font-size: 40px;
+        line-height: 50px; 
+    }
+    #map-script {
+        width: 247px ;
+        height: 250px !important;
+    }
+}
