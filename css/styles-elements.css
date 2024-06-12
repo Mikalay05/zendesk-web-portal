@@ -713,3 +713,32 @@ line-height: 52px;
 .thisIcon {
     background-color: #000;
 }
+
+/*product support */
+.h4-upper {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.quick-links-section {
+    background: #D6EEF2;
+}
+.content-box-links {
+    background: #769B9F;
+}
+.a-link-box {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+}
