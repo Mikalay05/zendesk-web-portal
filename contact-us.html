@@ -12,6 +12,7 @@
     <link rel="stylesheet" href="css/footer.css">
     <link rel="stylesheet" href="css/burger-menu-box.css">
     <link rel="stylesheet" href="css/users.css">
+    <link rel="stylesheet" href="css/modal.css">
 
     <title>Zendesk</title>
 </head>
@@ -225,12 +226,22 @@
             <p data-footer-translate="gartner-disclaimer">Gartner does not endorse any vendor, product or service depicted in its research publications and does not advise technology users to select only those vendors with the highest ratings or other designations. Gartner research publications consist of the opinions of Gartner's Research & Advisory organization and should not be construed as statements of fact. Gartner disclaims all warranties, expressed or implied, with respect to this research, including any warranties of merchantability or fitness for particular purpose. GARTNER is a registered trademark and service mark of Gartner, Inc. and/or its affiliates in the U.S. and internationally and is used herein with permissions. All rights reserved.</p>
         </section>
     </footer>
-
+    <div id="myModalLogin" class="modal">
+        <h2>Login Required</h2>
+        <div class="line-modal"></div>
+        <p>To perform this action, please log in to your account</p>
+        <button id="closeButtonModelLogin" class="button-modal">Sign In</button>
+</div>
+<div id="myModalSuccessful" class="modal">
+    <h2>Operation Successful</h2>
+    <div class="line-modal"></div>
+    <p >We have received your message. Please wait while we contact you</p>
+    <button id="closeButtonModelSuccessful" class="button-modal">Okay</button>
+</div>
     <script src="js/theme/theme-header.js"></script>
     <script src="js/i18n/headerI18n.js"></script>
     <script src="js/i18n/footerI18n.js"></script>
     <script src="js/burget-menu.js"></script>
     <script src="js/footer/footerMenuDropdown.js"></script>
-
 </body>
 </html>
