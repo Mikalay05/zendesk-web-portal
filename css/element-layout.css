@@ -537,7 +537,6 @@ width: 100%;
     align-items: center;
     align-content: center;
     gap: 10px;
-    align-self: stretch;
     flex-wrap: wrap;
 }
 .content-with-text-this-is-zendesk {
@@ -550,9 +549,10 @@ width: 100%;
     gap: 16px;
     flex: 1 0 0;
 }
-.img-this-is-zendesk {
-    width: 100vw;
-    height: 100vw;
-    max-width: 500px;
-    max-height: 505px;
+.section-this-is-zendesk {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
