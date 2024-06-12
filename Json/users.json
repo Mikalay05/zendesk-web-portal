@@ -1,0 +1,123 @@
+[
+    {
+        "mail": "admin@gmail.com",
+        "password": "admin123",
+        "telephone": "+375295059674",
+        "birthdate": "2005-03-13",
+        "firstname": "Николай",
+        "secondname": "Кислюк",
+        "middlename": "Александрович",
+        "nickname": "admin",
+        "role": "admin"
+    },
+    {
+        "mail": "user1@gmail.com",
+        "password": "user123",
+        "telephone": "+375295059675",
+        "birthdate": "2000-01-01",
+        "firstname": "John",
+        "secondname": "Doe",
+        "middlename": "Middle",
+        "nickname": "user1",
+        "role": "user"
+    },
+    {
+        "mail": "user2@gmail.com",
+        "password": "user456",
+        "telephone": "+375295059676",
+        "birthdate": "2001-02-02",
+        "firstname": "Jane",
+        "secondname": "Smith",
+        "middlename": "Lee",
+        "nickname": "user2",
+        "role": "user"
+    },
+    {
+        "mail": "user3@gmail.com",
+        "password": "user789",
+        "telephone": "+375295059677",
+        "birthdate": "2002-03-03",
+        "firstname": "Alice",
+        "secondname": "Johnson",
+        "middlename": "Marie",
+        "nickname": "user3",
+        "role": "user"
+    },
+    {
+        "mail": "user4@gmail.com",
+        "password": "userabc",
+        "telephone": "+375295059678",
+        "birthdate": "2003-04-04",
+        "firstname": "Bob",
+        "secondname": "Williams",
+        "middlename": "William",
+        "nickname": "user4",
+        "role": "user"
+    },
+    {
+        "mail": "user5@gmail.com",
+        "password": "userdef",
+        "telephone": "+375295059679",
+        "birthdate": "2004-05-05",
+        "firstname": "Eve",
+        "secondname": "Brown",
+        "middlename": "Lily",
+        "nickname": "user5",
+        "role": "user"
+    },
+    {
+        "mail": "user6@gmail.com",
+        "password": "userghi",
+        "telephone": "+375295059680",
+        "birthdate": "2005-06-06",
+        "firstname": "Chris",
+        "secondname": "Davis",
+        "middlename": "James",
+        "nickname": "user6",
+        "role": "user"
+    },
+    {
+        "mail": "user7@gmail.com",
+        "password": "userjkl",
+        "telephone": "+375295059681",
+        "birthdate": "2006-07-07",
+        "firstname": "Grace",
+        "secondname": "Wilson",
+        "middlename": "Oliver",
+        "nickname": "user7",
+        "role": "user"
+    },
+    {
+        "mail": "user8@gmail.com",
+        "password": "usermno",
+        "telephone": "+375295059682",
+        "birthdate": "2007-08-08",
+        "firstname": "Henry",
+        "secondname": "Martinez",
+        "middlename": "Logan",
+        "nickname": "user8",
+        "role": "user"
+    },
+    {
+        "mail": "user9@gmail.com",
+        "password": "userpqr",
+        "telephone": "+375295059683",
+        "birthdate": "2008-09-09",
+        "firstname": "Sophia",
+        "secondname": "Garcia",
+        "middlename": "Amelia",
+        "nickname": "user9",
+        "role": "user"
+    },
+    {
+        "mail": "user10@gmail.com",
+        "password": "userstu",
+        "telephone": "+375295059684",
+        "birthdate": "2009-10-10",
+        "firstname": "Michael",
+        "secondname": "Lopez",
+        "middlename": "Daniel",
+        "nickname": "user10",
+        "role": "user"
+    }
+]

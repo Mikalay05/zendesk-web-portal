@@ -49,6 +49,7 @@ background: #D6EEF2;
 justify-content: center;
 align-items: center;
 gap: 50px;
+cursor: pointer;
 }
 
 .form {

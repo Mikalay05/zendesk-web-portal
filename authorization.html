@@ -84,7 +84,7 @@
                 <div class="line-authorization"></div>
             </div>
 
-            <form class="form">
+            <form class="form sign-up-form">
                 <div class="form-group">
                     <input type="text" id="name" placeholder="What's your name?">
                     <div class="line-authorization-after-input"></div>
@@ -149,6 +149,33 @@
                 </div>
             </div>
             </form>
+
+
+            <form class="form sign-in-form">
+                <div class="form-group">
+                    <div class="password-input-and-button">
+                        <input type="text" id="nicknameSignIn" placeholder="What's your nickname?">
+                    </div>  
+                    <div class="line-authorization-after-input"></div>
+                    <div class="error-authorization" id="nickname-error"></div>
+                </div>
+                <div class="form-group">
+                    <div class="password-input-and-button">
+                        <input type="password" id="passwordSignIn" placeholder="What's your password?">
+                        <img id="eye-icon-login" class="eyes-img" src="imgs/eyesPass.png" alt="eyes">
+                    </div>
+                    <div class="line-authorization-after-input"></div>
+                    <div class="error-authorization" id="password-error"></div>
+                </div>
+
+
+                <div class="tabs">
+                    <div class="line-authorization"></div>
+                <div id="sign-in" class="buttons-authorization">
+                    <h3 class="tab">Sign in</h3>
+                </div>
+            </form>
+            
         </div>
     </main>
 
@@ -281,5 +308,7 @@
     <script src="js/i18n/footerI18n.js"></script>
     <script src="js/burget-menu.js"></script>
     <script src="js/footer/footerMenuDropdown.js"></script>
+    
+    <script src="js/sign-in-user.js"></script>
 </body>
 </html>
