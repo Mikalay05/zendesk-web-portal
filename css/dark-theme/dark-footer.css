@@ -1,3 +1,35 @@
 /* main, header,.footer-line,.subscrive-content, .ather-links-footer, .section-end-text {
     display: none;
 } */
+.content-nav-footer.dark-theme h3 {
+    color:#FFFFFF;
+}
+.box-nav-footer.dark-theme h4 {
+    color:#FFFFFF;
+}
+.box-content-footer.dark-theme  a {
+    color:#FFFFFF;
+}
+.text-subscrive.dark-theme h3 {
+    color:#FFFFFF;
+}
+.text-subscrive.dark-theme h4 {
+    color:#4CAF50;
+}
+.buttons-subscrive.dark-theme input {
+    color: rgba(0, 227, 200, 0.53);
+    border: 1px solid #FFF;
+    background: #21232D;
+}
+.button-subscrive.dark-theme {
+    border: 2px solid #4CAF50;
+    background: #4CAF50;
+    color: #21232D;
+}
+.ather-links-footer.dark-theme a {
+    color: #FFF;
+}
+.section-end-text.dark-theme p {
+    color: #FFF;
+
+}

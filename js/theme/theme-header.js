@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', () => {
-
+    
     // Устанавливаем тему при загрузке страницы
     const theme = localStorage.getItem('theme') || 'light';
     applyTheme(theme);
@@ -25,11 +25,15 @@ function applyTheme(theme) {
             element.classList.add('dark-theme');
         });
         document.getElementById('logo-zendesk').src = 'imgs/dark-imgs/dark-logo.png';
+        document.getElementById('logo-zendesk-footer').src = 'imgs/dark-imgs/dark-logo.png';
+
     } else {
         elements.forEach(element => {
             element.classList.remove('dark-theme');
         });
         document.getElementById('logo-zendesk').src = 'imgs/logo-zendesk.png';
+        document.getElementById('logo-zendesk-footer').src = 'imgs/logo-zendesk.png';
+
     }
 }
 

@@ -29,22 +29,10 @@ const translationsHeader = {
     }
 };
 
-function translatePage(lang) {
+function translateHeader(lang) {
     const elements = document.querySelectorAll('[data-header-translate]');
     elements.forEach(element => {
         const key = element.getAttribute('data-header-translate');
         element.textContent = translationsHeader[lang][key];
     });
-}
-document.addEventListener('DOMContentLoaded', () => {
-    const lang = localStorage.getItem('language') || 'en';
-    translatePage(lang);
-    document.querySelector('[data-header-translate="language"]').addEventListener('click', toggleLanguage);
-    document.querySelector('.lng-line.in-burger').addEventListener('click', toggleLanguage);
-})
-function toggleLanguage() {
-    const currentLang = localStorage.getItem('language') || 'en';
-    const newLang = currentLang=='en'? 'ru': 'en';
-    localStorage.setItem('language',newLang);
-    translatePage(newLang);
 }
