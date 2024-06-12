@@ -1,0 +1,751 @@
+h1,h2,h3,h4,p, a{
+    margin-block: 0;
+}
+#logo-zendesk {
+    width: 75px;
+    height: 65px;
+}
+nav ul li {
+    list-style-type: none;
+}
+nav ul li a {
+    color: #03363D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+}
+.swipe-tem {
+    width: 50px;
+    height: 25px;
+    border-radius: 25px;
+    background-color:#CCCCCC;
+    flex-shrink: 0; 
+    position: relative;
+    cursor: pointer;
+}
+.circle {
+    width: 22px;
+    height: 22px;
+    border-radius: 50%;
+    background: #FFF;
+    position: absolute;
+    top: 1.5px;
+    left: 1.5px;
+}
+.burger-menu {
+    border-radius: 4px;
+    background: #FFF;
+    width: 50px;
+    height: 35px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 4px;
+    cursor: pointer;
+    display: none;
+
+}
+.line-in-burger-menu {
+    display: none;
+    width: 290px;
+    height: 3px;
+    border-radius: 10px;
+    background: #000;
+}
+.burger-menu-line {
+    width: 40px;
+    height: 4px;
+    border-radius: 8px;
+background: #000;
+}
+.content-links-1 {
+    width: 67px;}
+.content-links-2 {
+    width: 50px;}
+.content-links-3 {
+    width: 65px;}
+.content-links-4 {
+    width: 43px;}
+.content-links-5 {
+    width: 62px;}
+.content-links-6 {
+    width: 76px;    }
+#get-sterted {
+    background-color: rgba(23, 73, 77, 1);
+    width: 150px;
+    height: 46px;
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    cursor: pointer;
+}
+.champoins-of-customer-service-section {
+    background: #17494D;
+}
+.text-content-CHAMPIONS_OF_CUSTOMER_SERVICE, .h1-text-style{
+    color: white;
+    font-family: Roboto;
+    font-size: 77px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 97px;
+    min-width:   470px;
+    height: 294px;
+}
+
+.text-champions {
+    color: #CE9FB7;
+} 
+.text-customer {
+    color: #00A656;
+}
+.text-service {
+    color: #30AABC;
+}
+.text-discription-hampoins-of-customer-service {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+.button-free-trial {
+    width: 130px;
+    height: 52px;
+    border: 2px solid #FF6224;
+    background: #FF6224;
+    color: #FFF;
+
+    text-align: center; 
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 25px;
+}
+.button-view-demo {
+    width: 147px;
+    height: 52px;
+    border: 2px solid #FF6224;
+    background-color: transparent; /* Прозрачный фон */
+
+    color: #FF6224;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 25px;
+}
+#section-go-all-in-on-messaging {
+    background: #FED6A8;
+}
+.text-h2-go-all-in-on-messaging {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 33px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px
+}
+.text-p-go-all-in-on-messaging {
+    color: #17494D;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.link-watch-video {
+    width: 126px;
+height: 21px;
+
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    text-decoration: underline;
+}
+.link-get-the-details {
+    width: 126px;
+    height: 21px;
+
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 27px;
+    text-decoration: underline;
+
+}
+.title-text-where-good-conversations h2{
+    color: #03363D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 51px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px; 
+}
+
+.title-text-where-good-conversations p{
+    color: #03363D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.divisions-pasive{
+    color: #68737D;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.divisions-active {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 25px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.right-where-good-conversations h3{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+}
+.right-where-good-conversations p{
+    color: #17494D;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+}
+.right-where-good-conversations a{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+}
+.line-SQUARESPACE {
+    width: 2px;
+    height: 217px;
+    background: #C2C8CC;
+}
+.customize-section {
+    background-image: url(../imgs/Customize-your-customer-experience.png);
+    min-height: 528px;
+}
+.content {
+    background-color: white;
+}
+.customize-section h2 {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56px;
+}
+.customize-section p {
+    color: #17494D;
+    font-family: Roboto;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+
+.links a {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; 
+    text-decoration: underline;
+}
+.news-content {
+    background: #F8F9F9;
+    min-width: 250px;
+    max-width: 250px;
+
+    height: 336px;
+}
+.news-content h4 {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    
+}
+.news-content h3 {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+}
+.news-content p {
+    color: #17494D;
+
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.news-content a {
+    color: #03363D;
+
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: underline;
+}
+.news-line {
+    width: 100%;
+    height: 2px;
+    margin-top: 10px;
+}
+.line-red {
+    background: #7D3D54;
+}
+.line-blue {
+    background: #3D8DAE;
+}
+.line-yellow {
+    background: #C38F00;
+}
+.content-gartner h3 {
+    color: #03363D;
+
+    text-align: center;
+    font-family: Roboto;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+}
+.content-gartner {
+    background: #D6EEF2;
+}
+.section-gartner {
+    display: flex;
+    padding: 64px 170px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.section-the-best-customer {
+    background: #F8F9F9;
+}
+.right-content-the-best-customer h2{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 49px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px; 
+    width: 100%;
+
+}
+.right-content-the-best-customer p{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    width: 100%;
+}
+.right-content-the-best-customer a{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 21px;
+}
+.line-after-the-best-customer {
+    max-width: 1083px;
+    height: 2px;
+    background: #C2C8CC;
+    margin: 0 auto;
+}
+.section-theres-more-where-that-came-from {
+    background: #F8F9F9;
+}
+.content-theres-more-where-that-came-from h2{
+    color: #03363D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 32px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+}
+.content-box-theres-more-where-that-came-from p{
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+}
+.line-theres-more-where-that-came-from {
+    width: 300px;
+    height: 2px;
+    background: #17494D;
+}
+.section-champions-of-awesome-free-trials {
+    background: #D6EEF2;
+}
+.section-champions-of-awesome-free-trials h3{
+    color: #03363D;
+
+    text-align: center;
+    font-family: Roboto;
+    font-size: 53px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 56px;
+}
+.button-start-a-free-trial {
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+
+    width: 183px;
+    height: 52px;
+    border: 2px solid #17494D;
+    background: #17494D;
+}
+.button-view-demo-champions-of-awesome-free-trials {
+    color: #17494D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+
+    width: 146px;
+    height: 52px;
+    border: 2px solid #17494D;
+}
+.content-nav-footer h3 {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 26px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+.box-nav-footer h4 {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.box-content-footer a{
+    color: #68737D;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 19.5px;
+    text-decoration: none;
+}
+.footer-line {
+    height: 1px;
+    background: #C2C8CC;
+    width: 100%;
+}
+.text-subscrive h3 {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 23px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
+}
+.text-subscrive h4 {
+    color: #17494D;
+    font-family: Roboto;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+}
+.buttons-subscrive input{
+    color: rgba(104, 115, 125, 0.53);
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    width: 300px;
+height: 52px;
+}
+.button-subscrive {
+        color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 25px;
+
+    border: 2px solid #17494D;
+background: #17494D;
+width: 135px;
+height: 52px;
+}
+.ather-links-footer a {
+    color: #68737D;
+    font-family: Roboto;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    text-decoration: none;
+    
+}
+.section-end-text p{
+    width: 100%;
+
+    color: #68737D;
+    font-family: Roboto;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 18px;
+    max-width: 1100px;
+    
+}
+#button-news-left, #button-news-right {
+    width: 20px;
+    height: 20px;
+    display: none;
+    cursor: pointer;
+}
+.color-h1 {
+    color: #03363D;
+    height: auto;
+    min-width: 300px;
+max-width: 480px;
+flex: 1 0 0;
+}
+#map-container {
+    background-color:#000;
+    width: 100vw; /* 100% of the viewport width */
+    height: 100vw; /* 50% of the viewport width */
+    max-width: 500px; /* Maximum width */
+    max-height: 500px; /* Maximum height */
+}
+.line-in-input-box {
+    background: #DAD2E3;
+    height: 1px;
+    width: 100%;
+}
+.input-box-messange{
+    border: none;
+    width: 100%;
+    outline: none;
+}
+.box-input-messange input {
+    color: #A8A0B0;
+
+    font-family: "Red Hat Display";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.h2-text-black{
+    color: #21232D;
+text-align: center;
+font-family: Roboto;
+font-size: 39px;
+font-style: normal;
+font-weight: 500;
+line-height: 52px;
+}
+.button-messange, .button-explore-all {
+    display: flex;
+    width: 200px;
+    height: 60px;
+    padding: 15px 31px 15px 30px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #FF6224;
+
+    color: #FFF;
+    text-align: center;
+    font-family: "Red Hat Display";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    cursor: pointer;
+    border: none
+}
+.text-link {
+    color: #8643DC;
+    font-family: Roboto;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration-line: underline;
+    text-transform: lowercase;
+}
+
+
+/*company*/ 
+.section-this-is-zendesk {
+    background: #FED6A8;
+}
+
+.text-content-this-is-zendesk {
+    color: #17494D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+}
+
+
+.button-explore-all {
+    display: flex;
+    width: 200px;
+    height: 60px;
+    padding: 16px 30px 15px 29px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    background: #FF6224;
+
+    color: #FFF;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    cursor: pointer;
+    border: none
+}
+.h2-text-size-big{
+    color: #03363D;
+    text-align: center;
+    font-family: Roboto;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 56px;
+}
+
+.text-p-we-have-job {
+    color: #03363D;
+
+    text-align: center;
+    font-family: Roboto;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 27px;
+}
+
+.circleSmall {
+    width: 15px;
+    height: 15px;
+    border-radius: 15px;
+    background-color: #ABABAB;
+}
+.thisIcon {
+    background-color: #000;
+}
+
+/*product support */
+.h4-upper {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+.quick-links-section {
+    background: #D6EEF2;
+}
+.content-box-links {
+    background: #769B9F;
+}
+.a-link-box {
+    color: #03363D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 22px;
+    letter-spacing: 2px;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+}
+.h3-color {
+    color: #03363D;
+font-family: Roboto;
+font-size: 35px;
+font-style: normal;
+font-weight: 700;
+line-height: 40px;
+}

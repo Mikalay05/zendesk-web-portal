@@ -1,0 +1,205 @@
+@media(max-width: 800px)
+{
+    .content-champoins-of-customer-service {
+        flex-wrap: wrap;
+    }
+    .content-champoins-of-customer-service {
+        min-width: 300px;
+    }
+    .discription-champoins-of-customer-service-section {
+        min-width: 268px;
+    }
+}
+@media (max-width: 380px){
+    .buttons-discription-hampoins-of-customer-service {
+        flex-direction: column;
+    } 
+}
+
+@media(max-width:1112px) {
+    .burger-menu {
+        display: flex;
+    }
+
+    .links-button{
+        display: none;
+    }   
+}
+@media(max-width: 1142px) {
+    .content-champoins-of-customer-service{
+        flex-wrap: wrap;
+    }
+}
+@media (max-width: 767px) {
+    .champoins-of-customer-service-section {
+        padding: 0px 10px;
+    }
+    
+}
+@media(max-width: 490px)
+{
+    .text-content-CHAMPIONS_OF_CUSTOMER_SERVICE {
+font-size: 55px;
+font-style: normal;
+font-weight: 700;
+line-height: 97.5px;
+min-width: auto;
+    }
+    .content-champoins-of-customer-service {
+        padding: 20px 0px;
+    }
+
+}
+/* header, footer,.section-gartner,.section-the-best-customer,.content-the-best-customer, .section-theres-more-where-that-came-from, .section-champions-of-awesome-free-trials {
+    display: none;
+} */
+
+@media (max-width: 1194px) {
+    .contnet-section-go-all-in-on-messaging {
+        flex-wrap: wrap;
+    }
+}
+
+@media (max-width:767px) {
+    #img-go-all {
+        display: none;
+    }
+}
+@media(max-width:607px) {
+    #section-go-all-in-on-messaging {
+        padding: 0px 10px;
+    }
+    
+}
+@media (max-width: 1297px) {
+    #img-where-good {
+        display: none;
+    }
+}
+@media (max-width: 330px) {
+    .title-text-where-good-conversations h2 {
+        font-size: 32px;
+        line-height: 56px;
+    }
+}
+@media(max-width:983px){
+    .customize-section {
+        display: flex;
+        padding: 10px;
+        justify-content: center;
+
+    }
+    .content {
+        margin-left: 0;
+    }
+}
+@media(max-width:688px) {
+    .content-where-good-conversations {
+        padding: 0px;
+    }
+}
+@media(max-width:533px) {
+    .content {
+        padding: 40px 10px;
+    }
+}
+@media (max-width: 1106px) {
+    .news-section {
+        padding: 6px 8px;
+    }
+}
+@media(max-width:750px){
+    #news-box-2, #news-box-3 {
+        display: none;
+    }
+    #button-news-left, #button-news-right {
+        display: block;
+    }
+
+}
+
+@media (max-width:580px) {
+    .links-english >.swipe-tem {
+        display: none;
+    }
+    #burger-menu-show-box > .swipe-tem {
+        display: block;
+    } 
+    #burger-menu-show-box > .lng-line {
+        display: block;
+    } 
+    .line-in-burger-menu {
+        display: block;
+    }
+    .lng-line {
+        display: none;
+    }
+}
+/*footer start*/
+
+@media (max-width: 1114px) {
+    .box-content-footer {
+        display: none;
+    }
+    .content-nav-footer {
+        flex-direction: column;
+        align-items: center;
+    }
+    .content-nav-footer h3 {
+        text-align: center;
+        max-width: 190px;
+    } 
+    .box-nav-footer h4 {
+        text-align: center;
+        width: 100%;
+    }
+    .box-content-footer {
+            display: none;
+    }
+    .show-navs-footer {
+        display: flex;
+    }
+}
+
+/*footer end*/
+
+
+
+/*contact us*/
+@media (max-width: 1000px) {
+    .h1-text-style.color-h1 {
+        text-align: center;
+        min-width: 300px;
+        max-width: 480px;
+    }
+}
+@media (max-width: 520px) {
+    .h1-text-style.color-h1 {
+        font-size: 40px;
+        line-height: 50px; 
+    }
+}
+
+
+/*company*/
+@media (max-width: 520px) {
+    .img-this-is-zendesk {
+        width: 297px;
+        height: 300px;
+    }
+    
+}
+@media (max-width:740px) {
+    .circlesSmall {
+        display: flex;
+    }
+    #box-2,#box-3,#box-4,#box-5,#box-6{
+        display: none;
+    }
+    .swipe-left, .swipe-right {
+        display: block;
+    }
+    .text-about-img {
+        justify-content: space-between;
+    }
+}

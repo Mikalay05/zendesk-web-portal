@@ -1,0 +1,21 @@
+nav ul li a.dark-theme {
+    color: white;
+}
+.circle {
+    transition: left 0.3s ease;
+}
+.swipe-tem {
+    transition: background-color 0.3s ease;
+}
+.swipe-tem.dark-theme .circle {
+    left: 26.5px;
+}
+body.dark-theme {
+    background-color: #21232D;
+}
+#get-sterted.dark-theme {
+    background: #4CAF50;
+}
+#burger-menu-show-box.is-visible.dark-theme{
+    background-color: #FF6224;
+}
