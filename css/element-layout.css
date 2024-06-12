@@ -672,3 +672,30 @@ width: 100%;
     gap: 10px;
     width: 100%;
 }
+
+.section-news-and-updates {
+    display: flex;
+    max-width: 1012px;
+    padding: 20px 10px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 10px;
+}
+.content-news-and-updates {
+    display: flex;
+    padding: 0px 15px;
+    align-items: center;
+    align-content: center;
+    gap: 10px;
+    flex-wrap: wrap;
+}
+.box-news-and-updates {
+    display: flex;
+    min-width: 280px;
+    max-width: 450px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    flex: 1 0 0;
+}
