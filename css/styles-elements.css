@@ -645,3 +645,18 @@ line-height: 52px;
     text-decoration-line: underline;
     text-transform: lowercase;
 }
+
+
+/*company*/ 
+.this-is-zendesk {
+    background: #FED6A8;
+}
+
+.text-content-this-is-zendesk {
+    color: #17494D;
+    font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 24px;
+}

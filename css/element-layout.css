@@ -519,3 +519,40 @@ align-items: center;
 gap: 30px;
 width: 100%;
 }
+
+
+/*company*/
+
+.main-company {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.this-is-zendesk {
+    display: flex;
+    max-width: 992px;
+    padding: 20px 10px;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 10px;
+    align-self: stretch;
+    flex-wrap: wrap;
+}
+.content-with-text-this-is-zendesk {
+    display: flex;
+    min-width: 300px;
+    max-width: 480px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 16px;
+    flex: 1 0 0;
+}
+.img-this-is-zendesk {
+    width: 100vw;
+    height: 100vw;
+    max-width: 500px;
+    max-height: 505px;
+}
