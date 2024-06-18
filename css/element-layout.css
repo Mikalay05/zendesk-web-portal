@@ -256,7 +256,8 @@ nav {
 }
 .section-the-best-customer {
     display: flex;
-    padding: 64px 171px;
+    max-width: 1098px;
+    padding: 64px 10px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -289,7 +290,8 @@ nav {
 }
 .section-theres-more-where-that-came-from {
     display: flex;
-    padding: 25px 100px;
+    max-width: 1260px;
+    padding: 25px 10px;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -302,6 +304,7 @@ nav {
     align-items: center;
     align-content: center;
     gap: 95px;
+    flex-wrap: wrap;
 }
 .content-theres-more-where-that-came-from h2{
     min-width: 233px;
@@ -341,7 +344,7 @@ nav {
     align-items: center;
     align-content: center;
     gap: 16px;
-
+    flex-wrap: wrap;
 }
 footer {
     display: flex;
