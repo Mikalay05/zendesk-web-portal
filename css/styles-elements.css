@@ -769,3 +769,9 @@ line-height: 40px;
     font-weight: 700;
     line-height: 56px;
 } 
+.form.sign-up-form, .form.sign-in-form {
+    display: none;
+}
+.form.sign-up-form.active, .form.sign-in-form.active {
+    display: flex;
+}

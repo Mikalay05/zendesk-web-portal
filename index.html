@@ -15,7 +15,7 @@
     <link rel="stylesheet" href="css/burger-menu-box.css">
     <link rel="stylesheet" href="css/users.css">
 
-
+    <link rel="stylesheet" href="css/modal.css">
     <link rel="stylesheet" href="css/dark-theme/dark-main-index.css">
 
     <title>Zendesk</title>
@@ -121,7 +121,7 @@
             <div class="content-where-good-conversations">
                 <div class="divisions-in-where-good-conversations">
                     <a class = "divisions-active" href="#">Service</a>
-                    <a class="divisions-pasive" href="#">Sales</a>
+                    <a id="btnTarget" class="divisions-pasive" href="#">Sales</a>
                 </div>
 
                 <div class="discription-where-good-conversations">
@@ -392,6 +392,12 @@
         </section>
     </footer>
 
+    <div id="myModalError" class="modal">
+        <h2>Ops...</h2>
+        <div class="line-modal"></div>
+        <p  >Something went wrong :(</p>
+        <button id="closeButtonModelOps" class="button-modal">Okay</button>
+</div>
 
 
     <script src="js/slider-news.js"></script>
@@ -403,6 +409,9 @@
     <script src="js/burget-menu.js"></script>
     <script src="js/footer/footerMenuDropdown.js"></script>
     <script src="js/user-settings.js"></script>
+
+
+    <script src="js/modal/ops-modal.js"></script>
 
 
 </body>
