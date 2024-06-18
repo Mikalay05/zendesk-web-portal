@@ -21,7 +21,7 @@
     },
     "buttonFreeTrial": {
       "en": "Free trial",
-      "ru": "Бесплатная пробная версия"
+      "ru": "Пробная версия"
     },
     "buttonViewDemo": {
       "en": "View demo",
@@ -37,11 +37,11 @@
     },
     "linkWatchVideo": {
       "en": "Watch video",
-      "ru": "Смотреть видео"
+      "ru": "Видео"
     },
     "linkGetDetails": {
       "en": "Get the details",
-      "ru": "Получить подробности"
+      "ru": "Подробности"
     },
     "titleGoodConversations": {
       "en": "Where good conversations become great experiences",
@@ -174,6 +174,38 @@
     "contentZendeskUpdate": {
       "en": "Zendesk update: staying safe and working for you",
       "ru": "Обновление Zendesk: оставайтесь в безопасности и работайте для вас"
+    },
+    "contentTransitioningRemote": {
+      "en": "Transitioning to a remote workforce",
+      "ru": "Переход на удаленную работу"
+    },
+    "contentImpactCOVID": {
+      "en": "The impact of COVID-19 on CX",
+      "ru": "Влияние COVID-19 на CX"
+    },
+    "contentCustomerMetrics": {
+      "en": "3 customer service metrics that matter",
+      "ru": "3 показателя обслуживания клиентов, которые важны"
+    },
+    "contentKnowledgeManagement": {
+      "en": "5 of the best knowledge management examples",
+      "ru": "5 лучших примеров управления знаниями"
+    },
+    "mostImportantCustomerServiceObjectives": {
+      "en": "Most important customer service objectives",
+      "ru": "Наиболее важные цели обслуживания клиентов"
+    },
+    "championsOfAwesomeFreeTrials": {
+      "en": "Champions of awesome free trials",
+      "ru": "Чемпионы потрясающих бесплатных пробных версий"
+    },
+    "startAFreeTrial": {
+      "en": "Start a free trial",
+      "ru": "Начать бесплатную пробную версию"
+    },
+    "viewDemo": {
+      "en": "View demo",
+      "ru": "Просмотреть демо"
     }
   }
   
