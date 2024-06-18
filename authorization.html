@@ -88,64 +88,64 @@
                 <div class="form-group">
                     <input type="text" id="name" placeholder="What's your name?">
                     <div class="line-authorization-after-input"></div>
-                    <div class="error-authorization" id="name-error">The field should not be empty or the number of characters should be from 2 </div>
+                    <div class="error-authorization" id="name-error"></div>
                 </div>
                 <div class="form-group">
                     <input type="text" id="firstname" placeholder="What's your firstname?">
                     <div class="line-authorization-after-input"></div>
-                    <div class="error-authorization" id="firstname-error">The field should not be empty or the number of characters should be from 2</div>
+                    <div class="error-authorization" id="firstname-error"></div>
                 </div>
                 <div class="form-group">
                     <input type="text" id="secondname" placeholder="What's your secondname?">
                     <div class="line-authorization-after-input"></div>
-                    <div class="error-authorization" id="secondname-error">This field is optional</div>
+                    <div class="error-authorization" id="secondname-error"></div>
                 </div>
                 <div class="form-group">
                     <input type="tel" id="phone" placeholder="What's your number phone?">
                     <div class="line-authorization-after-input"></div>
-                    <div class="error-authorization" id="phone-error">The field should not be empty. Only on the phone of Belarus! +375 or 80 and 9 number</div>
+                    <div class="error-authorization" id="phone-error"></div>
                 </div>
                 <div class="form-group">
                     <input type="email" id="email" placeholder="What's your email?">
                     <div class="line-authorization-after-input"></div>
-                    <div class="error-authorization" id="email-error">The field should not be empty. Invalid mail!</div>
+                    <div class="error-authorization" id="email-error"></div>
                 </div>
                 <div class="form-group">
                     <input type="date" id="birthdate" placeholder="Date of birth">
                     <div class="line-authorization-after-input"></div>
-                    <div class="error-authorization" id="birthdate-error">Min age: 16 year old</div>
+                    <div class="error-authorization" id="birthdate-error"></div>
                 </div>
                 <div class="form-group">
                     <div class="password-input-and-button">
                         <input type="text" id="nickname" placeholder="What's your nickname?">
-                        <button id = "but-nick" class="button-auto-generation">auto generation</button>
+                        <button id = "generate-nickname" class="button-auto-generation">auto generation</button>
                     </div>
                     <div class="line-authorization-after-input"></div>
-                    <div class="error-authorization" id="nickname-error">The field should not be empty. Characters ≥ 2</div>
+                    <div class="error-authorization" id="nickname-error"></div>
                 </div>
                 <div class="form-group">
                     <div class="password-input-and-button">
                         <input type="password" id="password" placeholder="What's your password?">
-                        <img class="eyes-img" src="imgs/eyesPass.png" alt="eyes">
+                        <img id="show-password" class="eyes-img" src="imgs/eyesPass.png" alt="eyes">
                         <button id = "but-pass"class="button-auto-generation">auto generation</button>
                     </div>
                     <div class="line-authorization-after-input"></div>
-                    <div class="error-authorization" id="password-error">The field should not be empty. It must contain one uppercase and lowercase letter, number and symbol. Characters 8-20</div>
+                    <div class="error-authorization" id="password-error"></div>
                 </div>
                 <div class="form-group">
                     <input type="password" id="confirm-password" placeholder="Repeat your password">
                     <div class="line-authorization-after-input"></div>
-                    <div class="error-authorization" id="confirm-password-error">Passwords must match</div>
+                    <div class="error-authorization" id="confirm-password-error"></div>
                 </div>
                 <div class="form-group">
                     <input type="checkbox" id="agreement">
                     <label for="agreement">User Agreement</label>
-                    <div class="error-authorization" id="agreement-error">Check the box that you have read and agree. Required field</div>
+                    <div class="error-authorization" id="agreement-error"></div>
                 </div>
                 <div class="tabs">
                     <div class="line-authorization"></div>
                 <div class="buttons-authorization">
-                    <h3 class="tab">Sign up</h3>
+                    <h3 id="register-button" class="tab">Sign up</h3>
                 </div>
             </div>
             </form>
@@ -311,5 +311,6 @@
     
     <script src="js/sign-in-user.js"></script>
     <script src="js/reg-toggle-form.js"></script>
+    <script src="js/author-form.js"></script>
 </body>
 </html>

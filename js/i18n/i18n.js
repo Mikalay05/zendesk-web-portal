@@ -13,6 +13,8 @@ function translatePage(lang) {
 
     translateHeader(lang);
     translateFooter(lang);
+    translateMain(lang);
+
 }
 function toggleLanguage() {
     console.log('смена языка')
@@ -21,4 +23,11 @@ function toggleLanguage() {
     const newLang = currentLang=='en'? 'ru': 'en';
     localStorage.setItem('language',newLang);
     translatePage(newLang);
+}
+function translateMain(lang) {
+    const elements = document.querySelectorAll('[data-translate]');
+    elements.forEach(element => {
+        const key = element.getAttribute('data-translate');
+        element.textContent = translationsMain[lang][key];
+    });
 }

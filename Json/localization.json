@@ -1,0 +1,179 @@
+{
+    "titleChampions": {
+      "en": "Champions",
+      "ru": "Чемпионы"
+    },
+    "titleOf": {
+      "en": "of",
+      "ru": "по"
+    },
+    "titleCustomer": {
+      "en": "customer",
+      "ru": "обслуживанию"
+    },
+    "titleService": {
+      "en": "service",
+      "ru": "клиентов"
+    },
+    "descriptionChampions": {
+      "en": "Zendesk makes customer service better. We build software to meet customer needs, set your team up for success, and keep your business in sync.",
+      "ru": "Zendesk делает обслуживание клиентов лучше. Мы создаем программное обеспечение, чтобы удовлетворить потребности клиентов, настроить вашу команду на успех и поддерживать синхронность вашего бизнеса."
+    },
+    "buttonFreeTrial": {
+      "en": "Free trial",
+      "ru": "Бесплатная пробная версия"
+    },
+    "buttonViewDemo": {
+      "en": "View demo",
+      "ru": "Просмотреть демо"
+    },
+    "titleMessaging": {
+      "en": "Go all in on messaging",
+      "ru": "Погружайтесь в обмен сообщениями"
+    },
+    "descriptionMessaging": {
+      "en": "Cue the confetti—Zendesk messaging is here to help deliver rich conversational experiences that are connected across your web, mobile and social apps. It’s easy to automate and fast to scale for every customer need—and it’s all part of our new Zendesk Suite.",
+      "ru": "Приготовьтесь к празднику—обмен сообщениями Zendesk здесь, чтобы помочь вам доставить насыщенные разговорные впечатления, которые связаны через ваши веб-, мобильные и социальные приложения. Это легко автоматизировать и быстро масштабировать для любой потребности клиента—и это все часть нашего нового набора Zendesk Suite."
+    },
+    "linkWatchVideo": {
+      "en": "Watch video",
+      "ru": "Смотреть видео"
+    },
+    "linkGetDetails": {
+      "en": "Get the details",
+      "ru": "Получить подробности"
+    },
+    "titleGoodConversations": {
+      "en": "Where good conversations become great experiences",
+      "ru": "Где хорошие разговоры превращаются в отличные впечатления"
+    },
+    "descriptionGoodConversations": {
+      "en": "To make customers happy, you need conversational experiences—connected communication across any channel.",
+      "ru": "Чтобы сделать клиентов счастливыми, вам нужны разговорные впечатления—связанные коммуникации через любой канал."
+    },
+    "titleService": {
+      "en": "Service",
+      "ru": "Сервис"
+    },
+    "titleSales": {
+      "en": "Sales",
+      "ru": "Продажи"
+    },
+    "titleBestSupport": {
+      "en": "Give customers the best support",
+      "ru": "Обеспечьте клиентам лучшую поддержку"
+    },
+    "descriptionBestSupport": {
+      "en": "Customers want to connect any time, any place. Meet them where they are with the Zendesk Suite, which provides sophisticated, seamless support that flows across channels.",
+      "ru": "Клиенты хотят подключаться в любое время и в любом месте. Встречайте их там, где они находятся, с помощью Zendesk Suite, который предоставляет сложную, бесшовную поддержку, которая работает через все каналы."
+    },
+    "learnMoreBestSupport": {
+      "en": "Learn more",
+      "ru": "Узнать больше"
+    },
+    "quoteTestimonial": {
+      "en": "“We’re here to help our customers succeed online, and that’s something we hear back from our customers. They just love our support channels.”",
+      "ru": "“Мы здесь, чтобы помочь нашим клиентам добиться успеха в Интернете, и это то, что мы слышим от наших клиентов. Им просто нравятся наши каналы поддержки.”"
+    },
+    "authorName": {
+      "en": "Raphael Fontes",
+      "ru": "Рафаэль Фонтес"
+    },
+    "authorPosition": {
+      "en": "Vice President of Customer Operations at Squarespace",
+      "ru": "Вице-президент по операциям с клиентами в Squarespace"
+    },
+    "titleCustomizeExperience": {
+      "en": "Customize your customer experience",
+      "ru": "Настройте опыт обслуживания клиентов"
+    },
+    "descriptionCustomizeExperience": {
+      "en": "Growing just under the surface of Zendesk is a powerful force that lets you connect and understand all of your customer data. Plus, it’s flexible and customizable, so you can adapt to anything thrown your way. Zendesk Sunshine isn’t faster than a speeding bullet, but it’s close.",
+      "ru": "Под поверхностью Zendesk растет мощная сила, которая позволяет вам подключаться и понимать все данные о клиентах. Плюс, это гибко и настраиваемо, так что вы можете адаптироваться к любым обстоятельствам. Zendesk Sunshine не быстрее пули, но близко."
+    },
+    "linkLearnMore": {
+      "en": "Learn more",
+      "ru": "Узнать больше"
+    },
+    "linkWatchVideo": {
+      "en": "Watch video",
+      "ru": "Смотреть видео"
+    },
+    "newsCXTrends": {
+      "en": "CX Trends 2021",
+      "ru": "Тренды CX 2021"
+    },
+    "newsNewWorld": {
+      "en": "New world, new CX",
+      "ru": "Новый мир, новый CX"
+    },
+    "newsCustomerNeeds": {
+      "en": "Last year, customer needs changed in a blink. Learn how your team can keep up.",
+      "ru": "В прошлом году потребности клиентов изменились в одно мгновение. Узнайте, как ваша команда может справиться."
+    },
+    "readReport": {
+      "en": "Read report",
+      "ru": "Читать отчет"
+    },
+    "newsCXChampions": {
+      "en": "CX Champions",
+      "ru": "Чемпионы CX"
+    },
+    "newsSpeedQuality": {
+      "en": "Speed + quality = agility",
+      "ru": "Скорость + качество = гибкость"
+    },
+    "newsLeadingCX": {
+      "en": "How leading CX orgs support customer-centric processes and drive business agility.",
+      "ru": "Как ведущие организации CX поддерживают клиент-ориентированные процессы и повышают гибкость бизнеса."
+    },
+    "readMore": {
+      "en": "Read more",
+      "ru": "Читать больше"
+    },
+    "newsNewProduct": {
+      "en": "New product offering",
+      "ru": "Новое предложение продукта"
+    },
+    "newsIntroducingSuite": {
+      "en": "Introducing the Zendesk Suite",
+      "ru": "Представляем Zendesk Suite"
+    },
+    "newsAllInOne": {
+      "en": "Our new all-in-one customer service solution is easy to use, convenient for customers, and scales with your business.",
+      "ru": "Наше новое универсальное решение для обслуживания клиентов легко в использовании, удобно для клиентов и масштабируется вместе с вашим бизнесом."
+    },
+    "titleGartner": {
+      "en": "#1 in Digital Customer Service use case by",
+      "ru": "#1 в использовании цифрового обслуживания клиентов по версии"
+    },
+    "titleBestCustomer": {
+      "en": "The best customer experiences are built with Zendesk",
+      "ru": "Лучший опыт обслуживания клиентов создается с Zendesk"
+    },
+    "descriptionBestCustomer": {
+      "en": "The companies you use, use Zendesk",
+      "ru": "Компании, которыми вы пользуетесь, используют Zendesk"
+    },
+    "seeAllStories": {
+      "en": "See all customer stories",
+      "ru": "Смотрите все истории клиентов"
+    },
+    "titleTheresMore": {
+      "en": "There’s more where that came from",
+      "ru": "Там, откуда это пришло, есть еще больше"
+    },
+    "contentGuide": {
+      "en": "The complete guide to understanding customer service",
+      "ru": "Полное руководство по пониманию обслуживания клиентов"
+    },
+    "contentMachineLearning": {
+      "en": "Understanding machine learning vs deep learning",
+      "ru": "Понимание машинного обучения против глубокого обучения"
+    },
+    "contentZendeskUpdate": {
+      "en": "Zendesk update: staying safe and working for you",
+      "ru": "Обновление Zendesk: оставайтесь в безопасности и работайте для вас"
+    }
+  }
+  
