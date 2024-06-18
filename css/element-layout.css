@@ -702,6 +702,3 @@ width: 100%;
     align-items: flex-start;
     flex: 1 0 0;
 }
-#nickname-error, #password-error {
-    display: none;
-}

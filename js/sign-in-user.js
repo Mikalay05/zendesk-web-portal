@@ -28,13 +28,17 @@ function login(users) {
         const nickname = document.getElementById('nicknameSignIn').value.trim();
         const password = document.getElementById('passwordSignIn').value.trim();
 
-        const nicknameError = document.getElementById('nickname-error');
-        const passwordError = document.getElementById('password-error');
+        let nicknameError = document.getElementById('Sign-In-Login-Error');
+        const passwordError = document.getElementById('Sign-In-Password-Error');
+        console.log(document.getElementById('nickname-error'));
 
         const user = users.find(user => user.nickname === nickname);
 
         if (!user) {
             nicknameError.textContent = 'Login does not exist';
+            console.log(nicknameError);
+
+            console.log('Login does not exist');
             passwordError.textContent = '';
         } else if (user.password !== password) {
             passwordError.textContent = 'Incorrect password';
