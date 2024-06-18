@@ -1,5 +1,5 @@
 var modalError = document.getElementById('myModalError');
-var btnExploreAllRoles = document.querySelector('.button-explore-all');
+var btnTarget = document.getElementById('btnTarget');
 var buttonError = document.getElementById('closeButtonModelOps');
 
 var overlay = document.createElement('div');
@@ -7,7 +7,7 @@ overlay.className = 'overlay';
 document.body.appendChild(overlay);
 
 
-btnExploreAllRoles.addEventListener('click',() => {
+btnTarget.addEventListener('click',() => {
     modalError.style.display = "flex";
     overlay.classList.toggle('show');
     document.body.classList.toggle('no-scroll');

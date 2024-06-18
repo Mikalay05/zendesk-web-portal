@@ -1,3 +1,19 @@
+ /* header {
+    background-color:aqua;
+ } */
+  @media(max-width:350px) {
+    .content-theres-more-where-that-came-from {
+        padding: 0;
+    }
+  }
+  @media (max-width:640px) {
+    .section-gartner {
+        padding: 64px 10px;
+    }
+    .content-gartner {
+        max-width: 300px;
+    }
+  }
 @media(max-width: 800px)
 {
     .content-champoins-of-customer-service {
@@ -91,6 +107,14 @@ min-width: auto;
     }
     .content {
         margin-left: 0;
+    }
+}
+@media (max-width: 953px) {
+    .img-in-the-best-customer {
+        display: none;
+    }
+    .content-the-best-customer {
+        max-width: 426px;
     }
 }
 @media(max-width:688px) {

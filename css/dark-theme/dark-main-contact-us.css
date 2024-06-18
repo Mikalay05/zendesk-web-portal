@@ -1,0 +1,19 @@
+#map.dark-theme {
+    background: #03363D;
+}
+.color-h1.dark-theme {
+    color: #FFF;
+}
+.h2-text-black.dark-theme {
+    color: #A8A0B0;
+}
+.input-box-messange.dark-theme {
+    color: #037180;
+    background-color: unset;
+}
+.line-in-input-box.dark-theme {
+    background: #037180;
+}
+.button-messange.dark-theme {
+    color: #21232D;
+}
